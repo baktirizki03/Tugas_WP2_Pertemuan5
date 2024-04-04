@@ -1,4 +1,4 @@
-?php
+<?php
 // Kelas Book
 class Book
 {
